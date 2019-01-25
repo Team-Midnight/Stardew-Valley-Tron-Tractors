@@ -5,7 +5,7 @@ Created by MattAttack!
 
 **Matt's Twitter:** https://twitter.com/MatthewRysz
 
-![tractor](https://imgur.com/a/5WpvVRo)
+![tractor](blob:https://imgur.com/8392c058-d72f-4c6c-8b3f-a849904661d3)
 
 ## REQUIREMENTS
 
